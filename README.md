@@ -11,10 +11,10 @@ Lately, I’ve been thinking a lot about motion. Not trendy spring physics for t
 
 Currently exploring how animation can clarify rather than decorate, and where AI actually reduces friction vs. where it just adds noise.
 
-Notes at [thelongarc.life](https://thelongarc.life)
+Notes at [engineeringwitharavind.com](https://engineeringwitharavind.com)
 
 <div align="center">
 
-  Let's connect: [thelongarc.life](https://thelongarc.life/) · [@TheLongArc](https://x.com/TheLongArc) · [LinkedIn](https://www.linkedin.com/in/engineeringwitharavind/)
+  Let's connect: [engineeringwitharavind.com](https://engineeringwitharavind.com) · [@TheLongArc](https://x.com/TheLongArc) · [LinkedIn](https://www.linkedin.com/in/engineeringwitharavind/)
 
 </div>
