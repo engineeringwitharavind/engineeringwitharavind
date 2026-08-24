@@ -1,4 +1,4 @@
-I'm Aravind, from Chennai, India. I build interfaces.
+I'm Aravind, from Bangalore, India. I build interfaces.
 
 Mostly React and Next.js. Sometimes the work is making a complex state predictable. Sometimes it's getting animations to feel right. Often it's the parts nobody sees, accessible defaults, error boundaries, the states between states.
 
